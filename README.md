@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Verryx-02
-- 👀 I'm an aspiring programmer with no experience whatsoever. And that's why I'm here. I am a computer science student at the University of Udine
-- 🌱 I am currently learning the basics but I am confident that I will be able to continue the project by putting into practice what I am learning
-- 💞️ I'm currently collaborating with DarkBigL to create a 3D horror game
+- 👀 I'm an aspiring programmer with no experience whatsoever. And that's why I'm here. I am a computer science student at the University of Udine.
+- 🌱 I am currently learning the basics but I am confident that I will be able to continue the project by putting into practice what I am learning.
+- 💞️ I'm currently creating a 3D horror game in my free time.
 - 📫 You can contact me at francescoverrengia62442@gmail.com
 
 <!---
