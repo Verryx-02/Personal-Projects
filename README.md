@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francesco Verrengia, known as @Verryx-02
 - 👀 I'm an aspiring cybersecurity expert with no experience whatsoever. And that's why I'm here. I am a computer science student at the University of Udine.
-- 🌱 I am currently learning the basics but I am confident that I will be able to continue the project by putting into practice what I am learning.
+- 🌱 I am currently learning the basics but I am confident that I will be able to continue the project practicing what I am learning.
 - 💞️ I'm currently creating a 3D horror game in my free time (I don't find it very interesting so I don't know if I'll ever finish it).
 - 📫 You can contact me at francescoverrengia62442@gmail.com]
 
