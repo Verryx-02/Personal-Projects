@@ -5,8 +5,9 @@
 - 👀 I'm currently building (with Riccardo Gottardi) RAM-USB: a geo-distribuited Remotely Accessible Multi-User Backup Server. 
 - 📫 You can contact me at francescoverrengia62442@gmail.com]
 
-P.S. I am Italian so my projects are in Italian. When I have time I will translate them into English so that they are understandable by everyone.
-For now I have translated one of my two projects. The images have writings in Italian because I am too lazy to regenerate the graphics. I prefer to use the time I have to study or do other projects.
+P.S. I am Italian so, some of my projects are in Italian. (not RAM-USB) When I have time I will translate them into English so that they are understandable by everyone.
+For now I have translated one of my projects. 
+The images have writings in Italian because I am too lazy to regenerate the graphics. I prefer to use the time I have to study or do other projects.
 
 P.P.S. The idea of ​​using the air conditioner was mine, if you know what I'm talking about.
 
