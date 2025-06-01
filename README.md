@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Francesco Verrengia, known as @Verryx-02
-- 👀 I'm an aspiring cybersecurity expert with no experience whatsoever. And that's why I'm here. I am a computer science student at the University of Udine.
-- 🌱 I am currently learning the basics but I am confident that I will be able to continue the project practicing what I am learning.
-- 💞️ I'm currently creating a 3D horror game in my free time (I don't find it very interesting so I don't know if I'll ever finish it).
-- 👀 I'm currently building (with Riccardo Gottardi) RAM-USB: a geo-distribuited Remotely Accessible Multi-User Backup Server. 
-- 📫 You can contact me at francescoverrengia62442@gmail.com]
+- 👋 Hi, here you can find some university projects. 
 
 P.S. I am Italian so, some of my projects are in Italian. (not RAM-USB) When I have time I will translate them into English so that they are understandable by everyone.
 For now I have translated one of my projects. 
