@@ -1,6 +1,7 @@
 - 👋 Hi, here you can find some university projects. 
 
-P.S. I am Italian so, some of my projects are in Italian. (not RAM-USB) When I have time I will translate them into English so that they are understandable by everyone.
+P.S. I am Italian so, some of my projects are in Italian.  
+When I have time I will translate them into English so that they are understandable by everyone.
 For now I have translated one of my projects. 
 The images have writings in Italian because I am too lazy to regenerate the graphics. I prefer to use the time I have to study or do other projects.
 
