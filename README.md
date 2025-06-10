@@ -8,7 +8,7 @@ Here is a list of projects with a proper explanation:
     - QuickSelect, HeapSelect, MedianOfMediansSelect.
     - I thank Martina Ammirati for translating the report into English and for adapting it from Obsidian to LaTex. Thanks
 
-- Biblioteca_Database_Project is the university project of Database.
+- Progetto_Database_Biblioteca is the university project of Database.
     - It is the design and implementation of a database for a university library.  
 
 <!---
